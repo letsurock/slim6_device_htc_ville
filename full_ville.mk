@@ -22,7 +22,7 @@ $(call inherit-product, device/htc/ville/device.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := ville
-PRODUCT_NAME := full_ville
+PRODUCT_NAME := slim_ville
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := HTC One S
 PRODUCT_MANUFACTURER := HTC
