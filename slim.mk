@@ -5,7 +5,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Device naming
 PRODUCT_DEVICE := ville
-PRODUCT_NAME := cm_ville
+PRODUCT_NAME := slim_ville
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := One S
 PRODUCT_MANUFACTURER := HTC
