@@ -64,3 +64,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     fstab.qcom \
     init.target.rc
+
+# Stlport
+PRODUCT_PACKAGES += \
+   libstlport
