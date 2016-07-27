@@ -2,6 +2,5 @@
   {
     "repository": "slim6_device_htc_s4-common",
     "target_path": "device/htc/s4-common"
-    "branch": "cm-13.0"
   }
 ]
