@@ -1,1 +1,1 @@
-add_lunch_combo slim_ville-userdebug
+add_lunch_combo turbo_ville-userdebug
