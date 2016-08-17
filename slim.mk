@@ -1,11 +1,11 @@
 $(call inherit-product, device/htc/ville/full_ville.mk)
 
 # Inherit some common Slim stuff.
-$(call inherit-product, vendor/turbo/config/common_full_phone.mk)
+$(call inherit-product, vendor/slim/config/common_full_phone.mk)
 
 # Device naming
 PRODUCT_DEVICE := ville
-PRODUCT_NAME := turbo_ville
+PRODUCT_NAME := slim_ville
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := One S
 PRODUCT_MANUFACTURER := HTC
